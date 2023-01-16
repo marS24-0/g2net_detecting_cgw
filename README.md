@@ -6,7 +6,4 @@ The repository contains the code for Kaggle competition “G2Net Detecting Conti
 
 In this project we propose a possible pipeline for the problem of detecting Continuous Gravitational Waves in interferometers’ data. The proposed approach includes new features based on the SOAP algorithm and an ensemble model with two base classifiers and a Logistic regression on top of them. Different models were compared, with some of them obtaining good results.
 
-![image](figs/spectrograms/7e9d59d7c_H1.png)
-![image](figs/spectrograms/7e9d59d7c_L1.png)
-
 <a name="fn1">1</a>: https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves
